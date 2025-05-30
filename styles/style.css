@@ -32,7 +32,7 @@
   display: flex;
   margin: 8px;
   column-gap: 20px;
-  padding-left: 20px;
+  padding-left: 8px;
 }
 
 .nav__link {
