@@ -261,8 +261,8 @@ p {
 }
 
 .person_name_feynman {
-  right: 319px;
   top: -30px;
+  left: 319px;
 }
 
 .person_name_burbidge {
