@@ -368,6 +368,7 @@ p {
   flex-direction: row;
   width: 100%;
   justify-content: space-between;
+  align-items: center;
 }
 
 .footer__column_content_hours {
@@ -390,12 +391,13 @@ p {
 .footer__logo {
   width: 58px;
   height: 80px;
-  margin-top: 60px;
+  margin-top: 0;
 }
 
 .footer__column-heading {
   margin-bottom: 20px;
   display: inline-block;
+  white-space: nowrap;
 }
 
 .footer__list {
@@ -410,6 +412,7 @@ p {
 .footer__list-item {
   gap: 16px;
   display: flex;
+  white-space: nowrap;
 }
 
 .footer__column-link {
