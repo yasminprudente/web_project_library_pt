@@ -374,7 +374,6 @@ p {
 .footer__column_content_hours {
   display: flex;
   flex-direction: column;
-  gap: 20px;
   max-width: 200px;
   margin-left: auto;
   margin-right: 80px;
@@ -383,7 +382,6 @@ p {
 .footer__column_content_social {
   display: flex;
   flex-direction: column;
-  gap: 20px;
   max-width: 200px;
   margin-left: 80px;
 }
@@ -396,6 +394,7 @@ p {
 
 .footer__column-heading {
   margin-top: 0;
+  margin-bottom: 20px;
   display: inline-block;
   white-space: nowrap;
 }
