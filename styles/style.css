@@ -395,7 +395,7 @@ p {
 }
 
 .footer__column-heading {
-  margin-bottom: 20px;
+  margin-top: 0;
   display: inline-block;
   white-space: nowrap;
 }
